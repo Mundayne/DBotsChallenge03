@@ -7,7 +7,7 @@ Using my incredible powers of deduction and logical reasoning akin to Sherlock H
 1. The primary objective of this challenge is to create a Server Backup Bot containing the features set out below.
 2. The bot should be capable of backing up: server, channel category, channel and role settings; and channels and channel categories.
 3. Optionally it may back up members and the roles they have, as well as webhooks.
-4. A  server administrator should be able to choose what they want backed up - how detailed this selection is, is at your discretion.
+4. A server administrator should be able to choose what they want backed up - how detailed this selection is, is at your discretion.
 5. The backup should happen automatically at a time / day / time interval / etc. specified by a server administrator.
 6. Backups can be stored however you want, however the backups cannot be stored on the same server as the bot - it must be given to the server administrator so they can "load" a backup at will.
 7. The bot must be ToS compliant - notably, End User Data must be stored encrypted.
